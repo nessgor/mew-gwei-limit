@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Modify MyEtherWallet Gwei limit",
+    "version": "0.1.0",
+    "description": "This extension change the limit of Gwei to 999, HANDLE WITH CARE.",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.myetherwallet.com/*"
+            ],
+            "js": [
+                "script/content_script.js"
+            ]
+        }
+    ],
+    "icons": {
+        "16": "img/16.png",
+        "48": "img/48.png",
+        "128": "img/128.png"
+    }
+}

@@ -1,0 +1,1 @@
+document.querySelector("span.dropdown-gas ul.dropdown-menu input[type='range']").max = 999;
