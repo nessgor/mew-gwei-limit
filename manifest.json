@@ -9,6 +9,7 @@
                 "https://www.myetherwallet.com/*"
             ],
             "js": [
+                "script/jquery.js",
                 "script/content_script.js"
             ]
         }
