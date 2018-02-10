@@ -22,6 +22,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Initial commit
 
-[0.1.3]: https://github.com/nessgor/mew-gwei-limit/compare/v0.1.2...v0.1.3
-[0.1.2]: https://github.com/nessgor/mew-gwei-limit/compare/v0.1.1...v0.1.2
-[0.1.1]: https://github.com/nessgor/mew-gwei-limit/compare/v0.1.0...v0.1.1
+[0.1.3]: https://github.com/nessgor/mew-gwei-limit/compare/build%2F0.1.2...build%2F0.1.3
+[0.1.2]: https://github.com/nessgor/mew-gwei-limit/compare/build%2F0.1.1...build%2F0.1.2
+[0.1.1]: https://github.com/nessgor/mew-gwei-limit/compare/build%2F0.1.0...build%2F0.1.1
